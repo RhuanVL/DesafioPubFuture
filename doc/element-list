@@ -1,0 +1,6 @@
+com.example.finances
+com.example.finances.controller
+com.example.finances.enums
+com.example.finances.exception
+com.example.finances.model
+com.example.finances.repository

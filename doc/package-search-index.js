@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.example.finances"},{"l":"com.example.finances.controller"},{"l":"com.example.finances.enums"},{"l":"com.example.finances.exception"},{"l":"com.example.finances.model"},{"l":"com.example.finances.repository"}];updateSearchResults();

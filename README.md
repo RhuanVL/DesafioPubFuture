@@ -2,7 +2,7 @@
 
 Neste projeto foi utilizado apenas a linguagem java com seus frameworks e apis, tais como: Spring boot MVC, Spring Web, Hibernate, Jpa.
 Foi utilizado o Gerenciador de pacotes Maven e para o banco de dados relacional foi utilizado o MySql.
-Para Consultar a documentação do projeto, basta ir na pasta /Doc.
+Para Consultar a documentação do projeto, basta ir na pasta /doc.
  <br />O projeto está somente em formato REST API, sendo possível consumir seu end-point através do POSTMAN para realizar os testes.
 
 # Para usar a aplicação deve cumprir os seguintes requisitos:

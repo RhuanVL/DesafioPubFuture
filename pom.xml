@@ -12,14 +12,10 @@
 	<artifactId>finances</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>finances</name>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<description>a personal finances application</description>
 	<properties>
-		<java.version>17</java.version>
-        <failOnMissingWebXml>false</failOnMissingWebXml>
-        <maven.compiler.source>1.8</maven.compiler.source>
-        <maven.compiler.target>1.8</maven.compiler.target>
-        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<java.version>8</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
@@ -46,7 +42,7 @@
 			<groupId>mysql</groupId>
 			<artifactId>mysql-connector-java</artifactId>
 			<scope>runtime</scope>
-						<optional>true</optional>
+			<optional>true</optional>
 		</dependency>
 		
 		<dependency>
@@ -62,10 +58,6 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-tomcat</artifactId>
 			<scope>provided</scope>
-		</dependency>
-		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-thymeleaf</artifactId>
 		</dependency>
 	</dependencies>
 

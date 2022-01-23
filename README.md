@@ -17,6 +17,8 @@ MySql - XAMP ou outro
 
 Gitbash para usuários de Windows
 
+Terá que ser criado o banco de dados com o script .sql em um SGBD de sua escolha que foi disponibilizado no repositório.
+
 Os seguintes links podem ser úteis:
 
 https://dicasdejava.com.br/como-instalar-o-maven-no-windows/
@@ -28,10 +30,9 @@ git clone projeto
   
 cd projeto
 
-mvn clean install
+mvn clean install(É preciso também iniciar o mysql.)
   
 Basta ir na pasta target e dar dois cliques no aplicativo .jar que foi criado.
-É preciso também iniciar o mysql.
   
 # Para testes no POSTMAN.
 

@@ -68,6 +68,7 @@ PUT: localhost:8080/api/v1/contas/1
 
 É Preciso informar o id
 
+Exemplo:
 DELETE: localhost:8080/api/v1/contas/1
 
 # XD
